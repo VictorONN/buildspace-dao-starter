@@ -21,7 +21,7 @@ const app = sdk.getAppModule("0xd3cFb0A2c2B0AbaBb3FC3557fd5eE10DbeE0916a");
 
         console.log(
             "✅ Successfully deployed bundleDrop module, address:",
-        bundleDropModule.address,
+            bundleDropModule.address,
         );
 
         console.log(
